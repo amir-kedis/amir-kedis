@@ -47,4 +47,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amir-kedis&show_icons=true&locale=en" alt="amir-kedis" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amir-kedis&" alt="amir-kedis" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amir-kedis&" alt="amir-kedis" /></p> 
