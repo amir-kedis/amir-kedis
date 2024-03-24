@@ -6,8 +6,6 @@
 <h1 align="center">Hi 👋, I'm Amir Kedis</h1>
 <h3 align="left">Passionate about new cutting-edge technologies (and old - vim for the win), loves and finds huge enjoyment in building cool stuff with javascript or C and automating things and workflows. If you're hiring, let's chat! 🤍</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i2.wp.com/i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy-downsized.gif?w=770&ssl=1">
-
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=amir-kedis&label=Profile%20views&color=0e75b6&style=flat" alt="amir-kedis" /> </span>
 
 
@@ -43,8 +41,11 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir-kedis&show_icons=true&locale=en&layout=compact" alt="amir-kedis" /></p>
+<br clear="both">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amir-kedis&show_icons=true&locale=en" alt="amir-kedis" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amir-kedis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=amir-kedis&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amir-kedis&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amir-kedis&" alt="amir-kedis" /></p> 
