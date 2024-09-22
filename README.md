@@ -1,15 +1,12 @@
 <!-- [![MasterHead](https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif)](https://www.linkedin.com/in/amir-kedis/) -->
-<p align="center">
-  <img align="center" alt="Coding" width="80%" style="display:block; margin-inline: auto; text-align: center;margin-left: auto;" src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif)](https://www.linkedin.com/in/amir-kedis/">
-</p>
 
 <h1 align="center">Hi 👋, I'm Amir Kedis</h1>
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=amir-kedis&label=Profile%20views&color=0e75b6&style=flat" alt="amir-kedis" /> </span>
 
-- 📫 How to reach me **amir.kedis@gmail.com**
+- 📫 **amir.kedis@gmail.com**
 
-- 📄 Know about my experiences: **[see my resume](https://drive.google.com/file/d/1n0ldQ9Zjl24306Epos1iU_VsOOC8X2tq/view?usp=sharing)**
+- 📄 **[see my resume](https://drive.google.com/file/d/1n0ldQ9Zjl24306Epos1iU_VsOOC8X2tq/view?usp=sharing)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/amir-kedis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amir-kedis" height="30" width="40" /></a>
