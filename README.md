@@ -4,10 +4,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Amir Kedis</h1>
-<h3 align="left">Passionate about new cutting-edge technologies (and old - vim for the win), loves and finds huge enjoyment in building cool stuff with javascript or C and automating things and workflows.</h3>
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=amir-kedis&label=Profile%20views&color=0e75b6&style=flat" alt="amir-kedis" /> </span>
-
 
 - 📫 How to reach me **amir.kedis@gmail.com**
 
